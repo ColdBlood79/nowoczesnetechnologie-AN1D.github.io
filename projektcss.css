@@ -1,0 +1,45 @@
+b {
+	color: crimson;
+}
+h1 {
+	text-align: center;
+	color: crimson;
+}
+* {
+	font-family: Verdana;
+}
+h2, h3 {
+	text-align: center;
+	color: deepskyblue;
+	font-size: 25px;
+}
+.zdj {
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%; 
+}
+p {
+	color: aliceblue;
+}
+img {
+	margin: auto;
+	display: block;
+	width: 25%;
+	height: 25%;
+}
+a {
+	color: darkorange;
+}
+p {
+text-align: center;
+}
+.obszar {
+    border-style: groove;
+	font-size: 30px ;
+}
+iframe {
+	margin: auto;
+	display: block;
+}
